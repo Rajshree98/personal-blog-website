@@ -62,11 +62,11 @@
 }
 
 .hero__image {
-  background: url("../images/zelda.jpg") center 70% / cover no-repeat;
+  background: url("../images/main-cover.jpg") 70% / cover no-repeat;
 }
 
 .hero__image--blog {
-  background: url("../images/snes.jpg") top center / cover no-repeat;
+  background: url("../images/cover.jpeg") top center / cover no-repeat;
 }
 
 .w-100 {
